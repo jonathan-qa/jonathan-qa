@@ -5,5 +5,5 @@
 
 I'm a Brazilian Software Engineer focused on agile testing, software quality, continuous delivery, and continuous integration.
 Currently, I'm focused on
-- Studying Python, English, and k8s.
+- Studying Cypress, Javascript, English, and Docker.
 - Available and happy to help other testers or anyone interested in the software quality area.
